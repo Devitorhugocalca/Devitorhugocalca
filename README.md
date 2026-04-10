@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-Sou um Desenvolvedor Full Stack apaixonado por criar experiências na web que vão além do convencional. Tenho um forte foco em unir desenvolvimento robusto com noções de marketing digital, construindo interfaces que não apenas funcionam perfeitamente, mas que também engajam e convertem.
+Sou um Desenvolvedor Full Stack apaixonado por criar experiências na web que vão além do convencional. Tenho um forte foco em unir desenvolvimento robusto com noções de marketing, construindo interfaces que não apenas funcionam perfeitamente, mas que também engajam e convertem.
 </p>
 
 ---
@@ -20,12 +20,11 @@ Sou um Desenvolvedor Full Stack apaixonado por criar experiências na web que v�
 
 ---
 
-### 📊 Minhas Estatísticas e Produtividade
+### 🎯 Foco Atual & Filosofia de Trabalho
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devitorhugocalca&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devitorhugocalca&theme=tokyonight&hide_border=true" alt="Estatísticas de Contribuição" width="48%" />
-</p>
+- 🌱 **Explorando:** Aprofundando estratégias de **Marketing Digital** para unir código de alta performance com conversão e retenção de usuários.
+- ⚙️ **No tempo livre:** Montando e otimizando hardwares de PC, explorando o universo dos games e revendo os clássicos do espaço.
+- 💡 **Visão de Produto:** Acredito que um bom desenvolvedor não entrega apenas linhas de código, mas sim soluções que resolvem problemas reais e geram valor para o negócio e para o cliente final.
 
 ---
 
@@ -41,7 +40,7 @@ Sou um Desenvolvedor Full Stack apaixonado por criar experiências na web que v�
 **Identidade Visual e Experiência do Usuário.** Site institucional desenvolvido para destacar os produtos da padaria. Focado em navegação intuitiva e design totalmente responsivo para valorizar o catálogo e a conversão de clientes.
 
 #### [🥩 O Brazeiro - Cardápio Digital](https://www.obrazeiro.com.br/new-menu/)
-**Solução em Menu Digital.** Estruturação e desenvolvimento de uma interface moderna para o cardápio do restaurante, projetado com foco estrito na usabilidade mobile, aliando os princípios de desenvolvimento web às estratégias de marketing gastronômico.
+**Solução em Menu Digital.** Estruturação e desenvolvimento de uma interface moderna para o cardápio do restaurante, projetado com foco estrito na usabilidade mobile, aliando os princípios de desenvolvimento web às estratégias de mercado gastronômico.
 
 ---
 
